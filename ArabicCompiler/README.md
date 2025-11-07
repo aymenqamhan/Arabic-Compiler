@@ -233,15 +233,19 @@ STORE ناتج, t3
 Email : **demosoft.team@gmail.com**
 ---
 
-**المطور**: فريق 
-DemoSoft
-**
-https://github.com/aymenqamhan
-https://github.com/Hazem777-M
-https://github.com/dheyafadhl
-https://github.com/tareq-alomari
-https://github.com/Ali-Alqawas
-**
+**المطور**: فريق DemoSoft
+
+**https://github.com/aymenqamhan**
+
+**https://github.com/Hazem777-M**
+
+**https://github.com/dheyafadhl**
+
+**https://github.com/tareq-alomari**
+
+**https://github.com/Ali-Alqawas**
+
+
 **الإصدار**: 1.0.0  
 **تاريخ الإصدار**: ديسمبر 2025  
 **الحالة**: قيد التطوير النشط
